@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rayedsikder
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on EVM based blockchains
+- 💞️ I’m looking to collaborate on projects relevant to EVM based blockchains
 - 📫 How to reach me: rayedsikder33@gmail.com
 
 <!---
